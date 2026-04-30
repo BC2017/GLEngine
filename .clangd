@@ -1,2 +1,5 @@
 CompileFlags:
   CompilationDatabase: build-debug
+  Compiler: C:/ProgramData/mingw64/mingw64/bin/g++.exe
+  Add:
+    - --target=x86_64-w64-mingw32
